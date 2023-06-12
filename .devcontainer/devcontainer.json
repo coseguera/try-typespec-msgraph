@@ -2,5 +2,6 @@
     "name": "Try @microsoft/typespec-msgraph",
     "build": {
         "dockerfile": "Dockerfile"
-    }
+    },
+    "postCreateCommand": "tsp code install && tsp install"
 }
