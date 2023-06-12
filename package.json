@@ -1,0 +1,10 @@
+{
+    "name": "learntsmsgraph",
+    "version": "0.1.0",
+    "type": "module",
+    "dependencies": {
+        "@typespec/compiler": "latest",
+        "@microsoft/typespec-msgraph": "0.0.1-Preview.3"
+    },
+    "private": true
+}
