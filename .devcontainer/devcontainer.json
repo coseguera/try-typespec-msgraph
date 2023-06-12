@@ -1,0 +1,6 @@
+{
+    "name": "Try @microsoft/typespec-msgraph",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
