@@ -7,7 +7,6 @@
         "@microsoft/typespec-msgraph": "~0.0.1-Preview.4"
     },
     "scripts": {
-        "tsp-install": "tsp install",
         "build": "tsp compile .",
         "watch": "tsp compile . --watch"
     },
