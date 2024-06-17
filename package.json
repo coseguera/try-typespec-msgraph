@@ -3,8 +3,9 @@
     "version": "0.1.0",
     "type": "module",
     "dependencies": {
-        "@typespec/compiler": "~0.45.0",
-        "@microsoft/typespec-msgraph": "~0.0.1-Preview.21"
+        "@typespec/compiler": "latest",
+        "@microsoft/typespec-msgraph": "latest",
+        "@microsoft/typespec-msgraph-reference-prod-beta": "latest"
     },
     "scripts": {
         "build": "tsp compile .",
